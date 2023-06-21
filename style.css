@@ -1,0 +1,15 @@
+.custom-button {
+  background-image: url('reload.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border: none;
+  cursor: pointer;
+}
+body, html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  overflow: hidden;
+}
